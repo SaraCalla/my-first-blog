@@ -1,0 +1,8 @@
+myvenv\Scripts\activate 		//avvio ambiente virtuale
+
+manage.py è uno script che aiuta a gestire il sito. Usandolo saremo in grado di avviare un web server sul nostro computer senza dover installare nient'altro, tra l'altro.
+
+
+settings.py contiene la configurazione del tuo sito web.
+
+urls.py contiene una lista di schemi usati da urlresolver.
